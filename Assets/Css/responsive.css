@@ -1,0 +1,12 @@
+@media screen and (max-width: 600px) {
+    .text-section h3{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .text-section p{
+        font-size: 13px;
+    }
+    .text-section button{
+        width: 80%;
+    }
+}
